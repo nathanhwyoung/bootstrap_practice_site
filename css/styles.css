@@ -1,0 +1,17 @@
+.background-image {
+  background-image: url("../img/background.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+.row {
+  padding:20;
+}
+
+.gray-text {
+  color: rgb(152, 173, 198);
+}
+
+.white-text {
+  color: white;
+}
